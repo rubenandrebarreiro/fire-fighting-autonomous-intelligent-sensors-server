@@ -2,6 +2,11 @@
 
 ###  (Google App Engine - Web Server)
 
+![https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-server/master/imgs/JPGs/banner-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-server/master/imgs/JPGs/banner-1.jpg)
+###### Fire Fighting - Autonomous and Intelligent Sensors in the Fight against Forest Fires (Google App Engine - Web Server) - Banner #1
+
+***
+
 ## Current Status
 
 [![contributor for this repository](https://img.shields.io/badge/contributor-bernardo&nbsp;palma&nbsp;albergaria-blue.svg)](https://github.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-server)
