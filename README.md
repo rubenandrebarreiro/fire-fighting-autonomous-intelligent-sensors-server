@@ -1,6 +1,6 @@
 ## Fire Fighting - Autonomous and Intelligent Sensors in the Fight against Forest Fires
 
-###  (Google App Engine Server)
+###  (Google App Engine - Web Server)
 
 
 ### Prerequisites
@@ -16,21 +16,21 @@ To install this application, you will only need to _download_ or _clone_ this re
 > Or instead, by cloning this repository by a [**_Git Client based GUI_**](https://git-scm.com/downloads/guis), using [**_HTTPS_**](https://en.wikipedia.org/wiki/HTTPS) or [**_SSH_**](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol), by one of the following link:
 * [**_HTTPS_**](https://en.wikipedia.org/wiki/HTTPS):
 ```
-https://github.com/rubenandrebarreiro/gpu-cuda-self-organising-maps.git
+https://github.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-server.git
 ```
 * [**_SSH_**](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol):
 ```
-git@github.com:rubenandrebarreiro/gpu-cuda-self-organising-maps.git
+git@github.com:rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-server.git
 ```
 
 > Or even, by running one of the following commands in a **_Git Bash Console_**:
 * [**_HTTPS_**](https://en.wikipedia.org/wiki/HTTPS):
 ```
-git clone https://github.com/rubenandrebarreiro/gpu-cuda-self-organising-maps.git
+git clone https://github.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-server.git
 ```
 * [**_SSH_**](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol):
 ```
-git clone git@github.com:rubenandrebarreiro/gpu-cuda-self-organising-maps.git
+git clone git@github.com:rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-server.git
 ```
 
 ## Built with
