@@ -41,7 +41,9 @@ git clone git@github.com:rubenandrebarreiro/fire-fighting-autonomous-intelligent
 ## Contributors
 
 > [Bernardo Palma Albergaria]()
+
 > [Eduardo Brás Silva](https://github.com/timeforagame/)
+
 > [Rúben André Barreiro](https://github.com/rubenandrebarreiro/)
 
 ## Contacts
