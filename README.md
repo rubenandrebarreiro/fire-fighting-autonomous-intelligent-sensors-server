@@ -28,7 +28,7 @@
 [![technology used no. 1](https://img.shields.io/badge/built&nbsp;with-arduino-red.svg)](https://www.arduino.cc/) 
 [![technology used no. 2](https://img.shields.io/badge/built&nbsp;with-c++-red.svg)](http://www.cplusplus.com/) 
 [![technology used no. 3](https://img.shields.io/badge/built&nbsp;with-java-red.svg)](https://www.java.com/)
-[![technology used no. 4](https://img.shields.io/badge/built&nbsp;with-google&nbsp;app&nbsp;engine-red.svg)](https://www.android.com/)
+[![technology used no. 4](https://img.shields.io/badge/built&nbsp;with-android-red.svg)](https://www.android.com/)
 
 [![software used no. 1](https://img.shields.io/badge/software-arduino&nbsp;ide-gold.svg)](https://www.arduino.cc/en/Main/Software)
 [![software used no. 2](https://img.shields.io/badge/software-google&nbsp;app&nbsp;engine-gold.svg)](https://cloud.google.com/appengine/)
@@ -55,6 +55,24 @@
 
 [Click here to see the Project's Description!](https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-server/master/project-description/PDFs/project-description-1.pdf)
 ######  Fire Fighting - Autonomous and Intelligent Sensors in the Fight against Forest Fires (Google App Engine - Web Server) - Project's Description #1
+
+***
+
+## Live Demos
+
+![https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-server/master/live-demos/GIFs/live-demo-1.gif](https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-server/master/live-demos/GIFs/live-demo-1.gif)
+![https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-server/master/live-demos/GIFs/live-demo-2.gif](https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-server/master/live-demos/GIFs/live-demo-2.gif)
+![https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-server/master/live-demos/GIFs/live-demo-3.gif](https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-server/master/live-demos/GIFs/live-demo-3.gif)
+######  Fire Fighting - Autonomous and Intelligent Sensors in the Fight against Forest Fires 
+######  (Arduino Sensor - Actuator with WiFi Component) - Live Demos (Part 1)
+
+***
+
+![https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-server/master/live-demos/GIFs/live-demo-4.gif](https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-server/master/live-demos/GIFs/live-demo-4.gif)
+![https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-arduino/master/live-demos/GIFs/live-demo-5.gif](https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-server/master/live-demos/GIFs/live-demo-5.gif)
+![https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-arduino/master/live-demos/GIFs/live-demo-6.gif](https://raw.githubusercontent.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-arduino/master/live-demos/GIFs/live-demo-6.gif)
+######  Fire Fighting - Autonomous and Intelligent Sensors in the Fight against Forest Fires 
+######  (Arduino Sensor - Actuator with WiFi Component) - Live Demos (Part 2)
 
 ***
 
