@@ -11,7 +11,7 @@ To install and run this application, you will need:
 ### Installation
 To install this application, you will only need to _download_ or _clone_ this repository and run the application locally:
 
-> You can do it downloading the [**_.zip file_**](https://github.com/rubenandrebarreiro/gpu-cuda-self-organising-maps/archive/master.zip) in download section of this repository.
+> You can do it downloading the [**_.zip file_**](https://github.com/rubenandrebarreiro/fire-fighting-autonomous-intelligent-sensors-server/archive/master.zip) in download section of this repository.
 
 > Or instead, by cloning this repository by a [**_Git Client based GUI_**](https://git-scm.com/downloads/guis), using [**_HTTPS_**](https://en.wikipedia.org/wiki/HTTPS) or [**_SSH_**](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol), by one of the following link:
 * [**_HTTPS_**](https://en.wikipedia.org/wiki/HTTPS):
