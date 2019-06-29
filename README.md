@@ -117,7 +117,7 @@ git clone git@github.com:rubenandrebarreiro/fire-fighting-autonomous-intelligent
 
 > Bernardo Palma Albergaria
 
-> [Eduardo Brás Silva](https://github.com/timeforagame/)
+> [Eduardo Manuel Silva](https://github.com/timeforagame/)
 
 > [Rúben André Barreiro](https://github.com/rubenandrebarreiro/)
 
